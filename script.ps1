@@ -1,6 +1,6 @@
 #Variables
-$pathToJsonFile = "C:\testPshell\product.json"
-$pathToOutputFile = "C:\testPshell\ProductOutput.csv"
+$pathToJsonFile = "C:\Pshell\product.json"
+$pathToOutputFile = "C:\Pshell\ProductOutput.csv"
 
 #Get content
 ((Get-Content -Path $pathToJsonFile) | ConvertFrom-Json) | ForEach-Object {
