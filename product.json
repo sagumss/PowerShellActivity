@@ -1,0 +1,37 @@
+[
+    {
+        "Products": [
+                        {
+                            "ProductName": "Phone",
+                            "Price": "200"
+                        
+                        },
+                        
+                        {
+                            "ProductName": "Charger",
+                            "Price": "20"
+                        
+                        },
+                        
+                        {
+                            "ProductName": "Headphones",
+                            "Price": "100"
+                        
+                        },
+                        
+                        {
+                            "ProductName": "Case",
+                            "Price": "40"
+                        
+                        },
+                        
+                        {
+                            "ProductName": "Speaker",
+                            "Price": "90"
+                        
+                        }
+                    ]
+    }
+]
+            
+	
